@@ -1,0 +1,6 @@
+PUT http://localhost:3001/api/notes/638541c1aa47b0c7a30e2504
+Content-Type: application/json
+
+{
+    "content": "NOTA RE EDITADA"
+}
